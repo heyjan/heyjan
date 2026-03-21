@@ -1,6 +1,6 @@
 ## Hi, I'm Jan 👋
 
-📍 **Germany**  🤖 **AI Tooling & Data Enthusiast** | 🛠️ **Full-Stack Developer** |
+📍 **Germany** | 🤖 **AI Tooling & Data Enthusiast** | 🛠️ **Full-Stack Developer** |
 
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
