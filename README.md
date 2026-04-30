@@ -10,6 +10,7 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude CLI](https://img.shields.io/badge/-Claude_CLI-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Fedora Linux](https://img.shields.io/badge/-Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
 
 > Exploring how AI agents change the way we work - shipping AI-powered tools at full speed.
@@ -21,6 +22,7 @@
 ## Projects
 
 - 📊 **[Openbase](https://github.com/heyjan/openbase)** — Open-source data analytics & BI platform with (PostgreSQL, MySQL, DuckDB, SQLite, MongoDB)
+- 📦 **[pixxio-cli](https://github.com/heyjan/pixxio-cli)** — CLI tool to manage pixx.io digital assets from the terminal, built with Go
 - 🌐 **[heyjan-web](https://github.com/heyjan/heyjan-web)** — My personal site & blog, built with Nuxt
 - 🐳 **[devcontainer-starter](https://github.com/heyjan/devcontainer-starter)** — Template for prototyping with devcontainers + Podman/Docker
 - 🏷️ **[heise-classification](https://github.com/heyjan/heise-classification)** — News classification pipeline with embeddings and active learning
