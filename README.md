@@ -2,11 +2,11 @@
 
 📍 **Germany** | 🤖 **AI Tooling & Data Enthusiast** | 🛠️ **Full-Stack Developer** |
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude CLI](https://img.shields.io/badge/-Claude_CLI-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Fedora Linux](https://img.shields.io/badge/-Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white)
@@ -17,17 +17,20 @@
 
 ## Current Focus
 
-🚀 **[Openbase](https://github.com/heyjan/openbase)** — An open-source Metabase alternative focused on modular dashboards, multi-source analytics with agentic data retrieval in mind.. Built with Vue & TypeScript, Vercel AI SDK.
+🚀 **[AI Verticals](https://ai-verticals.dev/)** - A live intelligence platform for Germany's AI job market, aggregating and classifying job listings to reveal hiring trends across companies, skills, tools, locations, and salaries.
+
+🚀 **[Openbase](https://github.com/heyjan/openbase)** - An open-source Metabase alternative focused on modular dashboards, multi-source analytics with agentic data retrieval in mind.. Built with Vue & TypeScript, Vercel AI SDK.
 
 ## Projects
 
-- 📊 **[Openbase](https://github.com/heyjan/openbase)** — Open-source data analytics & BI platform with (PostgreSQL, MySQL, DuckDB, SQLite, MongoDB)
-- 📦 **[pixxio-cli](https://github.com/heyjan/pixxio-cli)** — CLI tool to manage pixx.io digital assets from the terminal, built with Go
-- 🌐 **[heyjan-web](https://github.com/heyjan/heyjan-web)** — My personal site & blog, built with Nuxt
-- 🐳 **[devcontainer-starter](https://github.com/heyjan/devcontainer-starter)** — Template for prototyping with devcontainers + Podman/Docker
-- 🏷️ **[heise-classification](https://github.com/heyjan/heise-classification)** — News classification pipeline with embeddings and active learning
-- 💧 **[fritzbox_water_automation](https://github.com/heyjan/fritzbox_water_automation)** — Automated watering cycles using Fritzbox Smarthome
-- 💸 **[fail.tech](https://github.com/heyjan/fail.tech)** — Making the friend.tech banteg dump searchable
+- 📊 **[Openbase](https://github.com/heyjan/openbase)** - Open-source data analytics & BI platform with (PostgreSQL, MySQL, DuckDB, SQLite, MongoDB)
+- 📄 **[jetson-ocr](https://github.com/heyjan/jetson-ocr)** (private) - FastAPI WebSocket server running RapidOCR (PP-OCRv4) on ONNX Runtime with TensorRT/CUDA, plus an OpenRouter-backed Pydantic AI agent that describes OCR-identified objects for a mobile kiosk page
+- 📦 **[pixxio-cli](https://github.com/heyjan/pixxio-cli)** - CLI tool to manage pixx.io digital assets from the terminal, built with Go
+- 🌐 **[heyjan-web](https://github.com/heyjan/heyjan-web)** - My personal site & blog, built with Nuxt
+- 🐳 **[devcontainer-starter](https://github.com/heyjan/devcontainer-starter)** - Template for prototyping with devcontainers + Podman/Docker
+- 🏷️ **[heise-classification](https://github.com/heyjan/heise-classification)** - News classification pipeline with embeddings and active learning
+- 💧 **[fritzbox_water_automation](https://github.com/heyjan/fritzbox_water_automation)** - Automated watering cycles using Fritzbox Smarthome
+- 💸 **[fail.tech](https://github.com/heyjan/fail.tech)** - Making the friend.tech banteg dump searchable
 
 ## GitHub Activity
 
@@ -35,14 +38,14 @@
 
 ## What I'm Doing
 
-- **Living in the Future** — Building tools to make agentic engineering accessible for everyone
-- **Writing about AI workflows** — Sharing guides and learnings on heyjan.de
-- **Rapid prototyping** — From idea to deployed app in days, not months
-- **Exploring Edge AI with my NVIDIA Jetson Orin Nano** — Tinkering w Voice & Vision System, Local inference stack, presence detection (mmWave radar), speech recognition (Whisper) to OpenClaw
+- **Living in the Future** - Building tools to make agentic engineering accessible for everyone
+- **Writing about AI workflows** - Sharing guides and learnings on heyjan.de
+- **Rapid prototyping** - From idea to deployed app in days, not months
+- **Exploring Edge AI with my NVIDIA Jetson Orin Nano** - Tinkering w Voice & Vision System, Local inference stack, presence detection (mmWave radar), speech recognition (Whisper) to OpenClaw
 
 ## Latest Blog Posts
 
-- [Clawdbot — Your Personal AI Assistant 2026 Setup Guide](https://heyjan.de/blog/clawdbot-personal-assistant-2026-setup-guide)
+- [Clawdbot - Your Personal AI Assistant 2026 Setup Guide](https://heyjan.de/blog/clawdbot-personal-assistant-2026-setup-guide)
 - [KI-Agenten sicher betreiben mit Sandboxes](https://heyjan.de/blog/ki-agenten-sandbox-sicherheit-isolation)
 - [Context7 MCP-Server in WSL einrichten](https://heyjan.de/blog/context7-mcp-server-in-wsl-einrichten)
 - [Getting Started with Nuxt Content](https://heyjan.de/blog/getting-started-with-nuxt-content)
@@ -58,7 +61,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Bilingual blogger — writes in both German and English
+- Bilingual blogger - writes in both German and English
 - Fedora on the desktop, self-hosted servers on Hetzner
 - Believes in owning your data and infrastructure
 - Started Openbase out of frustration with Metabase limitations
